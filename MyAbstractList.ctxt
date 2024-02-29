@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MyAbstractList
+comment0.text=DO\ NOT\ CHANGE\ THIS\ CODE
+comment1.params=
+comment1.target=MyAbstractList()
+comment1.text=Create\ a\ default\ list
+comment2.params=objects
+comment2.target=MyAbstractList(java.lang.Object[])
+comment2.text=Create\ a\ list\ from\ an\ array\ of\ objects
+comment3.params=e
+comment3.target=void\ add(java.lang.Object)
+comment3.text=Add\ a\ new\ element\ at\ the\ end\ of\ this\ list
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment4.text=Return\ true\ if\ this\ list\ contains\ no\ elements
+comment5.params=
+comment5.target=int\ size()
+comment5.text=Return\ the\ number\ of\ elements\ in\ this\ list
+comment6.params=e
+comment6.target=boolean\ remove(java.lang.Object)
+comment6.text=\ Remove\ the\ first\ occurrence\ of\ the\ element\ o\ from\ this\ list.\r\n\ \ Shift\ any\ subsequent\ elements\ to\ the\ left.\r\nReturn\ true\ if\ the\ element\ is\ removed.
+numComments=7

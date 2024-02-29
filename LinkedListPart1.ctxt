@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=LinkedListPart1
+comment1.params=
+comment1.target=LinkedListPart1()
+comment10.params=e
+comment10.target=java.lang.Object\ delete(java.lang.Object)
+comment11.params=e
+comment11.target=boolean\ contains(java.lang.Object)
+comment12.params=args
+comment12.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ clear()
+comment3.params=
+comment3.target=void\ reverseList()
+comment4.params=
+comment4.target=java.lang.Object\ deleteLast()
+comment5.params=
+comment5.target=void\ show()
+comment6.params=e
+comment6.target=void\ add(java.lang.Object)
+comment7.params=
+comment7.target=boolean\ isEmpty()
+comment8.params=
+comment8.target=int\ getSize()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=13
